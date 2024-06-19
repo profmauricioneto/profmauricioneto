@@ -8,6 +8,7 @@ Hello 👋 I'm Maurício Neto
 ## Overview :man_teacher:
 * I'm a professor at Christus University Center (UNICHRISTUS)
 * Courses:
+  * Mathematical Logic I 
   * Programming Language 1
   * Programming Language 2
   * Data Visualization
