@@ -1,40 +1,30 @@
-Hello 👋 I'm Maurício Neto
---
+<h1 align="center">Hi 👋, I'm Maurício Moreira Neto</h1>
+<h3 align="center">Professor of the Courses of Analysis and Development of Systems (ADS) and Information Systems (SI) at Unichristus</h3>
 
-<p>
-  This repository's goal is to store the contents of courses taught at UNICHRISTUS.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=profmauricioneto&label=Profile%20views&color=0e75b6&style=flat" alt="profmauricioneto" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=profmauricioneto" alt="profmauricioneto" /></a> </p>
+
+- 📝 I regularly write articles on [https://medium.com/@maumneto](https://medium.com/@maumneto)
+
+- 📫 How to reach me **mauricio.moreira@unichristus.edu.br**
+
+- 📄 Know about my experiences [Professor of the subjects: Mathematical Logic I - Programming Language 1 - Programming Language 2 - Data Visualization and Applications Development with Web Frameworks](Professor of the subjects: Mathematical Logic I - Programming Language 1 - Programming Language 2 - Data Visualization and Applications Development with Web Frameworks)
+
+- ⚡ Fun fact **I have three cats**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/maumneto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maumneto/" height="30" width="40" /></a>
+<a href="https://medium.com/@maumento" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@maumento" height="30" width="40" /></a>
 </p>
 
-## Overview :man_teacher:
-* I'm a professor at Christus University Center (UNICHRISTUS)
-* Courses:
-  * Mathematical Logic I 
-  * Programming Language 1
-  * Programming Language 2
-  * Data Visualization
-  
-## Researches :man_technologist:
-* Blockchain
-* e-Health Applications
-* Internet of Things
-* Data Science
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-## More Information About Me :bust_in_silhouette:
-  
-* <b>[WebSite](https://maumneto.github.io/mauriciomoreira/)</b>
-* <b>[Medium](https://www.linkedin.com/in/maumneto/)</b>
-* <b>[Lattes Curriculum](http://lattes.cnpq.br/7534400645876830)</b>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=profmauricioneto&show_icons=true&locale=en&layout=compact" alt="profmauricioneto" /></p>
 
-## Contacts :speaking_head:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauricio.moreira@unichristus.edu.br)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maumneto)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=profmauricioneto&show_icons=true&locale=en" alt="profmauricioneto" /></p>
 
-## Social Networks :busts_in_silhouette:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maumneto/)
-[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/maumneto)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Mauricio-Neto-2)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=profmauricioneto&" alt="profmauricioneto" /></p>
 
-<!---
-profmauricioneto/profmauricioneto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
